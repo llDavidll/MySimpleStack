@@ -41,5 +41,10 @@ public class MySimpleStack implements SimpleStack {
 
 		return mStack.pop();
 	}
+	
+	public String trololo(){
+		
+		return "TROLOLO";
+	}
 
 }
