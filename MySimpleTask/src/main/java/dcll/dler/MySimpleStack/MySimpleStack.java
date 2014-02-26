@@ -42,6 +42,7 @@ public class MySimpleStack implements SimpleStack {
 		return mStack.pop();
 	}
 	
+	@Override
 	public String trololo(){
 		
 		return "TROLOLO";

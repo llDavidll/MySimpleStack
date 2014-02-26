@@ -37,6 +37,8 @@ public class MySimpleStackTest {
 		assertEquals(1, mStack.getSize());
 		
 		assertEquals(1, mStack.peek().getValue());
+		
+		assertEquals("TROLOLO", mStack.trololo());
 	}
 
 }

@@ -32,4 +32,6 @@ public interface SimpleStack {
 	 *             if this stack is empty.
 	 */
 	public Item pop() throws EmptyStackException;
+	
+	public String trololo();
 }
